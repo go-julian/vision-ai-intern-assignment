@@ -1,7 +1,7 @@
 # Vision AI intern assignment
 ## Exercise 1 – Image classification
 
-This is the instruction for AI intern assignment at [Golden Owl](https://goldenowl.asia). You will build a simple Image Classification model base on [Teachable Machine](https://teachablemachine.withgoogle.com/) or your hardware.
+This is the instruction for AI intern assignment at [Golden Owl](https://goldenowl.asia). You will build a simple Image Classification model base on [Teachable Machine](https://teachablemachine.withgoogle.com/) or [Tensorflow](https://tensorflow.org/).
 
 You will do “**Classify dog and cat images**”. For example:
 
